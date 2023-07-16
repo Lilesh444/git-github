@@ -1,1 +1,7 @@
 this is the first chapter.
+steps:
+git inint 
+git status
+git add . / git add chapter1
+git commit -m "first-commit"
+git log
