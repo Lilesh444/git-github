@@ -1,1 +1,4 @@
 chapter 2
+
+git diff filename
+git checkout filename
