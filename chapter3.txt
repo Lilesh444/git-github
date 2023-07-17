@@ -2,3 +2,7 @@ Branching and cloning
 =>git branch <name of file> [alien-plot]
 =>git branch 
 =>git checkout name [alien-plot]
+
+=>git merge <filename> [alien-plot]
+
+=>!q
